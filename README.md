@@ -30,7 +30,7 @@ Desta vez, utilizei uma [biblioteca externa](https://github.com/DanielJohnBenton
 
 # Testes
 
-
+Alguns testes foram implementados na implementação n-gram1.
 
 # Desempenho (Benchmarking)
 
@@ -40,4 +40,3 @@ Testes de desempenho comparando os 3 algoritmos não foram feitos.
 
 1. Compile usando `javac`;
 2. Execute usando `java <arquivo.txt> <N>`
-   Ex: `java meuarquivo.txt 1`
